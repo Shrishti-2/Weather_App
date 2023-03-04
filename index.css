@@ -1,0 +1,21 @@
+/* *{
+    margin:0px;
+    padding:0px;
+} */
+body{
+    margin:0px;
+    height:100%;
+    width:100%;
+    background-image: url(/patrick-tomasso-D6Bk1A3-gMA-unsplash.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.box{
+    height:400px;
+    width:400px;
+    border-radius:10%;
+    color:rgb(33, 33, 32);
+    align-items: center;
+}
